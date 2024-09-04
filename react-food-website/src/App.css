@@ -40,7 +40,7 @@ header{
 /* home section */
 
 #home{
-  /* background-image: url('./assets/pexels-ella-olsson-572949-1640773.jpg'); */
+  background-image: url('./assets/pexels-ella-olsson-572949-1640773.jpg');
   /* height: 100vh; */
   background-size: cover;
   background-position: center;
