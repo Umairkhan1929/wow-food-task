@@ -78,7 +78,7 @@ function App() {
                     <h1>{food.name}</h1>
                     <h2>{food.price}</h2>
                     <p>{food.ingredients}</p>
-                    <button>Order Now</button>
+                    <button>Order now</button>
                     </div>
                 </div>
                 ))}
