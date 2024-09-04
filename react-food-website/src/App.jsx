@@ -75,10 +75,10 @@ function App() {
                 <div className='food-card-container'>
                     <img src={food.image} alt={food.name} />
                     <div className='food-card-details'>
-                    <h1>{food.name}</h1>
+                    {/* <h1>{food.name}</h1> */}
                     <h2>{food.price}</h2>
                     <p>{food.ingredients}</p>
-                    <button>Order now</button>
+                    <button>Order Now</button>
                     </div>
                 </div>
                 ))}
