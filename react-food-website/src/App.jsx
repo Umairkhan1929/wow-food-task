@@ -88,7 +88,7 @@ function App() {
 
 <footer id='about'>  
     <div className='about-img'>
-        <a href="https://wwww.facebook.com"><img src={facebook} alt={facebook} /></a>
+        <a href="https://www.facebook.com"><img src={facebook} alt={facebook} /></a>
         <a href="https://www.instagram.com"><img src={instagram} alt={instagram} /></a>
         <a href="https://www.twitter.com"><img src={twitter} alt={twitter} /></a>
     </div>
